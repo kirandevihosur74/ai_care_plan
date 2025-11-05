@@ -97,6 +97,8 @@ The frontend will run on `http://localhost:3000`
 
 ![Screenshot 3](screenshots/pic3.png)
 
+Check the file generated_care_plan_file.txt to see the sample generated care plan for the above UI screenshot data
+
 ## API Endpoints
 
 - `POST /api/orders/validate` - Validate order data
