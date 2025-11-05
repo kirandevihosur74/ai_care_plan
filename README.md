@@ -91,17 +91,11 @@ The frontend will run on `http://localhost:3000`
 
 ## UI Screenshots
 
-### Care Plan Form
-![Care Plan Form](screenshots/care-plan-form.png)
-The main form interface for entering patient information, provider details, and clinical data.
+![Screenshot 1](screenshots/pic1.png)
 
-### Form with Sample Data
-![Form with Data](screenshots/form-with-data.png)
-Example of the form filled with sample patient and medication information.
+![Screenshot 2](screenshots/pic2.png)
 
-### Generated Care Plan
-![Generated Care Plan](screenshots/generated-care-plan.png)
-Example of a generated care plan with patient demographics, problem list, goals, and interventions.
+![Screenshot 3](screenshots/pic3.png)
 
 ## API Endpoints
 
