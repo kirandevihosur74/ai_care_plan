@@ -1,0 +1,126 @@
+John Smith — Comprehensive Pharmacist Care Plan (Specialty Pharmacy)
+MRN: 123456
+DOB: 1979-06-08  Sex: Male  Weight: 72 kg
+Primary diagnosis: Generalized myasthenia gravis, AChR antibody positive, MGFA class IIb — ICD-10: G70.00
+Additional diagnoses: Hypertension — ICD-10: I10; Gastroesophageal reflux disease (GERD) — ICD-10: K21.9
+Current specialty medication: Intravenous immunoglobulin (IVIG) — Privigen 10% (IVIG, lot #P12345); planned total dose 2 g/kg (144 g for 72 kg) administered as 0.4 g/kg/day (28.8 g/day) × 5 days
+Date of plan: 2025-11-05
+Prepared by: Clinical Pharmacist (specialty pharmacy)
+
+1) PROBLEM LIST / Drug Therapy Problems (DTPs)
+A. Current therapy-related problems
+- Infusion-related acute reactions: mild headache during Day 1 infusion that resolved with slowing infusion; risk for more severe reactions (fever, rigors, urticaria, bronchospasm, anaphylaxis).
+- Volume-related adverse events: potential for fluid overload, exacerbation of hypertension.
+- Thromboembolic risk: IVIG can increase thrombotic risk (venous and arterial thrombosis); patient has hypertension (controlled) but otherwise low-moderate baseline risk.
+- Renal dysfunction: risk of acute kidney injury associated with IVIG products (especially sucrose-containing formulations; Privigen is not sucrose-based but renal risk remains). Baseline SCr 0.78 mg/dL, eGFR >90 mL/min/1.73 m².
+- Hemolysis and hematologic abnormalities: post-infusion hemolysis reported with IVIG (monitor CBC, hemoglobin).
+- Aseptic meningitis: potential but rare; present as severe headache, photophobia, neck stiffness.
+- Hyperviscosity: theoretical risk with high-dose IVIG; baseline IgG 10 g/L (for replacement context).
+- Medication administration/adherence risk: ensure correct weight-based dosing and documentation of lot #P12345 for each administration.
+B. Drug-drug interactions / contraindications / cautions
+- Prednisone 10 mg PO daily: additive immunosuppression — no direct interaction; continue per neurology.
+- Pyridostigmine 60 mg PO q6h PRN (avg 3–4 doses/day): no significant interaction with IVIG; continue dosing; monitor for cholinergic adverse effects.
+- Lisinopril 10 mg PO daily: ACE inhibitor — monitor for hypotension during infusion; ACE inhibitors may increase risk of angioedema in general; maintain BP monitoring.
+- Omeprazole 20 mg PO daily: no clinically relevant interaction with IVIG.
+- Vaccination considerations: IVIG may blunt live and inactivated vaccine responses; coordinate vaccine timing with neurology/primary care (avoid live vaccines within 3 months if feasible).
+C. Priority safety concerns to address now
+- Respiratory compromise: baseline FVC 2.8 L (~70% predicted). Risk of rapid decline/respiratory failure during disease course or peri-infusion—requires daily FVC monitoring and low threshold for escalation.
+- Anaphylaxis/serious infusion reaction: immediate recognition and management plan during infusion.
+- Acute kidney injury: baseline normal renal function; require monitoring of SCr/BUN during and after course.
+- Thrombotic event: chest pain, unilateral leg swelling, neurologic deficits — requires urgent evaluation.
+
+2) SMART GOALS (Specific, Measurable, Achievable, Relevant, Time-bound)
+Clinical goals
+- Improve neuromuscular function: patient to report measurable improvement in bulbar symptoms (speech/swallowing) and proximal strength by 7–14 days post-completion of IVIG course as documented by neurology visit and patient-reported outcomes; objective: decrease MGFA severity or improved bedside strength testing (e.g., sustained counting without slurring).
+- Respiratory stability: maintain FVC ≥2.4 L (no >15% decline from baseline of 2.8 L) during treatment and for 14 days post-course; immediate escalation if FVC drops >15% or absolute FVC <2.0 L.
+Safety goals
+- Renal function: SCr increase no greater than 20% from baseline (baseline SCr 0.78 mg/dL) during therapy; if SCr increases ≥50% or absolute SCr ≥1.5 mg/dL, stop infusion and escalate.
+- No thrombotic events: no clinical signs/symptoms of DVT/PE/arterial thrombosis during infusion and for 14 days post-course.
+- No severe infusion reactions: no Grade ≥3 infusion reactions (anaphylaxis, respiratory compromise, hemodynamic instability) during infusion; mild reactions managed with infusion rate modification and symptomatic therapy.
+Quality-of-life / medication use goals
+- Education/adherence: patient demonstrates understanding of IVIG risks, home monitoring parameters, and when to seek urgent care — documented teach-back within 48 hours of first infusion and before discharge after each infusion day.
+- Appointment adherence: patient completes remaining infusion days 2–5 as scheduled within 24 hours of planned time; pharmacy to confirm attendance within 24 hours if a dose is missed.
+
+3) PHARMACIST INTERVENTIONS / PLAN
+A. Verify and optimize therapy
+- Dose verification: Confirmed weight 72 kg; total dose 2 g/kg = 144 g; regimen 0.4 g/kg/day = 28.8 g/day × 5 days. Confirmed accurate preparation and administration on Day 1 (28.8 g given).
+- Product verification: Privigen 10% IVIG, lot #P12345 documented for Day 1; ensure lot # documented for each subsequent day and retained in pharmacy/infusion record.
+- Administration strategy: Follow manufacturer titration and institutional protocol: start 0.5 mL/kg/hr for first 30 minutes (as performed), then escalate per tolerance to maximum recommended rate for Privigen. For future infusions, initial rate may be increased incrementally if tolerated. Pre-medicate per plan: acetaminophen 650 mg PO + diphenhydramine 25 mg PO 30 minutes pre-infusion (provided Day 1); consider H2 blocker (e.g., famotidine 20 mg PO) if recurrent urticaria or moderate reactions.
+- Hydration: Encourage oral hydration 500–1000 mL in 12 hours pre- and post-infusion unless contraindicated. Consider IV normal saline bolus (250–500 mL) prior to infusion if patient demonstrates risk for renal dysfunction or volume depletion.
+- Thromboprophylaxis: Routine pharmacologic prophylaxis is not indicated for low-moderate risk patients. Evaluate risk factors (age, prior thrombosis, immobility, hypercoagulable state). No prophylactic anticoagulation recommended at this time; reassess if new risk factors identified.
+- Concomitant medications: Continue pyridostigmine and prednisone as prescribed. Continue lisinopril but monitor BP closely during infusion sessions.
+B. Monitoring & follow-up interventions
+- Perform and document FVC prior to each infusion and immediately post-infusion; trend daily.
+- Vitals monitoring: q15 minutes × first hour (as performed), then q30 minutes for remainder of infusion and for 60 minutes post-infusion observation (documented Day 1). Repeat this schedule for each infusion day unless modified by institutional policy and patient tolerance.
+- Renal function monitoring: baseline BMP (Na, K, Cl, HCO3, BUN, SCr) within 7 days pre-treatment (available 2025-10-15: SCr 0.78, BUN 12). Repeat BMP daily during infusion days (Days 1–5) and 7–14 days after completion.
+- CBC monitoring: baseline CBC (WNL per 2025-10-15). Repeat CBC on Day 3 of course, Day 5 (end of course), and at 7–14 days post-course to assess for hemolysis or cytopenias. If hemoglobin falls ≥1.5 g/dL or new hemolytic signs, obtain haptoglobin, LDH, total bilirubin, direct antiglobulin test.
+- Post-course follow-up: phone check by specialty pharmacist within 48–72 hours after each infusion day to assess adverse events, and formal review at 14 days post-course (documented 2025-10-30: patient-reported improvement).
+C. Patient education (verbal + written) — topics and warning signs
+- Infusion process: explain dosing schedule (0.4 g/kg/day × 5 days), expected duration, premedications, and observation period (60 minutes post-infusion).
+- Common adverse effects: headache, flushing, fever, myalgias, nausea — manage with acetaminophen, slow infusion rate.
+- Serious warning signs requiring immediate medical attention: increasing shortness of breath, new/worsening dysphagia, difficulty breathing, stridor, sudden chest pain, unilateral leg swelling/pain, new focal neurologic deficits, dark urine or jaundice, syncope, severe abdominal pain, anaphylaxis signs (wheezing, throat tightness, hypotension, urticaria).
+- Home monitoring: perform and record baseline symptoms and any change in breathing or bulbar function; report FVC decline if patient has home spirometer and can measure — instruct to seek urgent care if FVC declines >15% from baseline or absolute FVC <2.0 L.
+- Medication reconciliation: maintain prednisone and pyridostigmine; continue lisinopril and omeprazole as prescribed; notify pharmacy/neurology of any new meds.
+D. Coordination with providers (communication plan)
+- Notify neurology (ordering provider) immediately for any of the following: FVC drop >15% or absolute <2.0 L, suspected myasthenic crisis, anaphylaxis, SCr increase ≥50% or ≥1.5 mg/dL, new thrombotic event, or hemolysis.
+- Document all infusion lot numbers, premedications, vitals, and FVC in the infusion center record and send electronic summary message to neurology and primary care within 24 hours of each infusion completion.
+- Escalation contacts: infusion RN → on-call neurologist → emergency services/ICU per institutional protocol.
+
+4) MONITORING PLAN & LAB SCHEDULE (specific, actionable)
+Baseline (pre-treatment)
+- Within 7 days pre-treatment: BMP (Na, K, Cl, HCO3, BUN, SCr) — available 2025-10-15: Na 138, K 4.1, Cl 101, HCO3 24, BUN 12, SCr 0.78, eGFR >90.
+- Baseline CBC with differential — WNL as of 2025-10-15.
+- Baseline FVC and respiratory exam — FVC 2.8 L (~70% predicted) on 2025-10-15.
+- Document allergy status including IgA deficiency — none reported.
+During treatment monitoring
+- Vitals: q15 minutes × first hour, then q30 minutes for remainder of infusion; observe for 60 minutes post-infusion (documented protocol; Day 1 followed this schedule).
+- FVC: measure immediately prior to each daily infusion and immediately post-infusion; document values. Escalate if >15% decline vs baseline or absolute <2.0 L.
+- BMP (including SCr, BUN): daily on Days 1–5 prior to infusion if feasible; at minimum each 48 hours. If any upward trend in SCr, obtain repeat BMP within 12–24 hours and consider holding subsequent dose.
+- CBC: Day 3 and Day 5 (end of course) — evaluate for anemia, hemolysis, thrombocytopenia.
+- Symptom check: daily RN/pharmacist assessment for headache, nausea, rash, chest pain, dyspnea, focal neuro signs.
+Post-treatment monitoring
+- BMP and CBC at 7–14 days post-completion (e.g., 2025-10-30 documented clinical check at 14 days).
+- Clinical follow-up with neurology at 4 weeks for reassessment and consideration of repeat IVIG vs thymectomy scheduling.
+Triggers for escalation / thresholds (numeric criteria)
+- Respiratory: absolute FVC <2.0 L OR >15% decline from baseline (2.8 L) → immediate transfer to ED and notify neurology.
+- Renal: SCr rise ≥50% from baseline OR absolute SCr ≥1.5 mg/dL OR urine output <0.5 mL/kg/hr for >6 hours → hold infusion, obtain urgent BMP, notify ordering provider.
+- Hemodynamic instability: systolic BP <90 mmHg or symptomatic hypotension OR new BP ≥180/110 mmHg not responsive to therapy → stop infusion and escalate.
+- Anaphylaxis: any signs of anaphylaxis (respiratory compromise, hypotension, urticaria with systemic symptoms) → stop infusion, administer IM epinephrine, call emergency services, notify provider, document and report.
+- Thrombosis: chest pain, sudden dyspnea, unilateral leg swelling, focal neurologic deficit → immediate ED evaluation; obtain D-dimer/CT angiography/ultrasound as indicated.
+Follow-up schedule
+- Daily during infusion (Days 1–5): vitals, pre/post FVC, BMP daily.
+- Phone check by specialty pharmacist within 48–72 hours after each infusion day to document adverse events and adherence.
+- Clinic/neuro follow-up: neurology appointment in 4 weeks (as scheduled) to determine need for repeat IVIG or thymectomy timing.
+Contingency / alternative plans
+- Moderate infusion reaction (e.g., headache, nausea, urticaria): slow infusion rate by 50%, administer symptomatic therapy (acetaminophen, diphenhydramine, IV fluids as needed), reassess every 15 minutes; if resolved, resume at lower rate.
+- Severe reaction or hemodynamic instability: stop infusion, follow anaphylaxis protocol, activate emergency services.
+- Renal dysfunction development: discontinue or hold further IVIG doses; consult nephrology and ordering neurology to determine alternative immunomodulatory strategies (e.g., plasmapheresis) if further immunomodulation is required.
+- Missed infusion day: attempt scheduling within 24 hours; if >48 hours delay, notify neurology to adjust plan.
+
+5) DOCUMENTATION / REPORTING
+- Product lot number documentation: record Privigen lot #P12345 for Day 1 in infusion record and pharmacy dispensing logs. Record lot number for Days 2–5 and maintain lot reconciliation in pharmacy and infusion center records for Medicare and manufacturer traceability.
+- Adverse event reporting procedures: any serious adverse event (anaphylaxis, thrombotic event, renal failure, hospitalization) must be reported to: 1) ordering neurology and primary care immediately; 2) pharmacy adverse event coordinator; 3) manufacturer safety reporting (Privigen safety contact per institutional protocol); and 4) FDA MedWatch within required timelines (submit MedWatch Report Form 3500A electronically or by mail). Document time/date of report and reporter name in patient chart.
+- Communication to providers: send infusion summary (including date, product, lot number, dose, infusion rates, premeds, vital signs, FVC values, any reactions) to ordering neurologist and primary care within 24 hours of each infusion day.
+- Record-keeping requirements: ensure infusion administration record, consent (if applicable), premedication documentation, vitals and FVC, BMP/CBC results, and adverse event documentation are entered in the electronic health record and retained per Medicare/State retention policies (minimum 7 years or institutional requirement).
+- Billing/Medicare compliance: document indication (G70.00), dose/route/ schedule, product name and lot number, and medical necessity notes (neurology recommendation for rapid symptomatic control prior to planned thymectomy) to support coverage and audit readiness.
+
+6) SUMMARY — Clinical impression & plan for this patient
+Clinical summary
+- John Smith is a 46-year-old male (DOB 1979-06-08) with generalized myasthenia gravis (AChR antibody positive), MGFA class IIb, with progressive proximal weakness and bulbar fatigue. Neurology recommended IVIG for rapid symptomatic control prior to planned thymectomy. Baseline FVC 2.8 L (~70% predicted). Baseline labs on 2025-10-15: CBC WNL; BMP Na 138, K 4.1, Cl 101, HCO3 24, BUN 12, SCr 0.78, eGFR >90; baseline IgG 10 g/L. Day 1 infusion (2025-10-16) of Privigen 10% lot #P12345, 28.8 g administered after premedication with acetaminophen 650 mg PO and diphenhydramine 25 mg PO; transient mild headache resolved with rate adjustment; FVC stable at 2.7 L post-infusion. Patient reported subjective improvement in speech and strength at 14 days post-course (2025-10-30) with no thrombotic or renal complications reported.
+Expected course and outcomes
+- Anticipated symptomatic improvement in bulbar and proximal muscle strength within 7–14 days after completion of the 5-day IVIG course. Expect stabilization or improvement in FVC; monitor for delayed adverse events (renal dysfunction, hemolysis, thrombotic events) up to 14 days post-infusion.
+Next steps and follow-up plan
+- Continue planned daily infusions Days 2–5 at 0.4 g/kg/day (28.8 g/day) using Privigen with lot numbers documented for each day.
+- Continue home meds: pyridostigmine, prednisone, lisinopril, omeprazole as prescribed; monitor BP due to lisinopril and fluid status.
+- Implement monitoring schedule: BMP daily during infusion course, CBC Day 3 and Day 5, daily vitals and FVC pre/post infusion, pharmacist phone checks within 48–72 hours post-infusion days, and formal 14-day post-course evaluation (already performed 2025-10-30 with improvement).
+- Neurology follow-up in 4 weeks to determine need for repeat IVIG course versus proceeding with planned thymectomy.
+
+Provider signature:
+Jane M. Carter, PharmD, BCSCP
+Date: 2025-11-05
+
+Addendum: Quick-reference escalation thresholds
+- FVC: absolute <2.0 L OR >15% decline from baseline (2.8 L) → urgent ED/neurology evaluation.
+- Renal: SCr rise ≥50% from baseline OR SCr ≥1.5 mg/dL → hold infusion, urgent BMP, notify provider.
+- Hemodynamic instability: SBP <90 mmHg or symptomatic hypotension or SBP ≥180 mmHg with symptoms → stop infusion and escalate.
+- Anaphylaxis: any respiratory compromise, hypotension, or generalized urticaria with systemic symptoms → IM epinephrine and emergency activation; document and report.
