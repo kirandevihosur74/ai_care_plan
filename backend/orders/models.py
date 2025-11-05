@@ -9,6 +9,7 @@ class Patient(models.Model):
         validators=[RegexValidator(regex=r'^\d{6}$', message='MRN must be exactly 6 digits')]
     )
     created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
     class Meta:
         db_table = 'patients'
         indexes = [
@@ -48,6 +49,7 @@ class Order(models.Model):
     medication_history = models.JSONField(default=list, blank=True)
     patient_records = models.TextField()
     care_plan = models.TextField(blank=True, null=True)
+    care_plan_generated_at = models.DateTimeField(blank=True, null=True)
     created_at = models.DateTimeField(auto_now_add=True)
     class Meta:
         db_table = 'orders'

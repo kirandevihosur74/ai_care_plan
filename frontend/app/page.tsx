@@ -4,6 +4,7 @@ import { zodResolver } from '@hookform/resolvers/zod';
 import * as z from 'zod';
 import { useState } from 'react';
 import WarningModal from '../components/WarningModal';
+import ExportButton from '../components/ExportButton';
 const orderSchema = z.object({
   patientFirstName: z.string().min(1, 'First name is required'),
   patientLastName: z.string().min(1, 'Last name is required'),
@@ -367,7 +368,7 @@ export default function CarePlanForm() {
           {carePlan && (
             <div className="mt-8 border-t pt-8">
               <div className="flex justify-between items-center mb-4">
-                <h2 className="text-xl font-semibold">Generated Care Plan</h2>
+                <h2 className="text-xl font-semibold text-gray-900">Generated Care Plan</h2>
                 <button
                   onClick={downloadCarePlan}
                   className="px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700"
@@ -376,12 +377,13 @@ export default function CarePlanForm() {
                 </button>
               </div>
               <div className="bg-gray-50 border border-gray-200 rounded-md p-6">
-                <pre className="whitespace-pre-wrap font-sans text-sm text-gray-800">
+                <pre className="whitespace-pre-wrap font-sans text-sm text-gray-900">
                   {carePlan}
                 </pre>
               </div>
             </div>
           )}
+          <ExportButton />
         </div>
       </div>
       {showWarningModal && (
