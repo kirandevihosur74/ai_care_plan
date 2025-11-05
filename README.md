@@ -89,6 +89,19 @@ The frontend will run on `http://localhost:3000`
 5. Review any duplicate warnings if they appear
 6. Download the generated care plan or export data for reporting
 
+## UI Screenshots
+
+### Care Plan Form
+![Care Plan Form](screenshots/care-plan-form.png)
+The main form interface for entering patient information, provider details, and clinical data.
+
+### Form with Sample Data
+![Form with Data](screenshots/form-with-data.png)
+Example of the form filled with sample patient and medication information.
+
+### Generated Care Plan
+![Generated Care Plan](screenshots/generated-care-plan.png)
+Example of a generated care plan with patient demographics, problem list, goals, and interventions.
 
 ## API Endpoints
 
