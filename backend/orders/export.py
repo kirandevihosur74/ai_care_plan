@@ -28,14 +28,12 @@ def get_orders_for_export(
     if provider_npi:
         queryset = queryset.filter(provider__npi=provider_npi)
     
-    if diagnosis:
-        queryset = queryset.filter(
-            Q(primary_diagnosis=diagnosis) | Q(additional_diagnoses__contains=[diagnosis])
-        )
-    
     queryset = queryset.order_by('-created_at')
     
     orders = list(queryset)
+    
+    if diagnosis:
+        orders = [o for o in orders if o.primary_diagnosis == diagnosis or diagnosis in (o.additional_diagnoses or [])]
     logger.info(f"Export query returned {len(orders)} orders")
     if start_date or end_date:
         logger.info(f"Date filter - start: {start_date}, end: {end_date}")
